@@ -84,3 +84,7 @@
 
 - Service update
 
+## 2026-02-06 / Обновление 22
+
+- Service update
+

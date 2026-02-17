@@ -104,3 +104,7 @@
 
 - Service update
 
+## 2026-02-17 / Обновление 27
+
+- Service update
+

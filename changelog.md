@@ -116,3 +116,7 @@
 
 - Service update
 
+## 2026-02-20 / Обновление 30
+
+- Service update
+

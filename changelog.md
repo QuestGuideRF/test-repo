@@ -140,3 +140,7 @@
 
 - Service update
 
+## 2026-03-05 / Обновление 36
+
+- Service update
+

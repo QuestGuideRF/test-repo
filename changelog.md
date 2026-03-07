@@ -144,3 +144,7 @@
 
 - Service update
 
+## 2026-03-07 / Обновление 37
+
+- Service update
+

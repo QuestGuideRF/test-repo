@@ -240,3 +240,7 @@
 
 - Service update
 
+## 2026-04-30 / Обновление 61
+
+- Service update
+

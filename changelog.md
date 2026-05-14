@@ -280,3 +280,7 @@
 
 - Service update
 
+## 2026-05-14 / Обновление 71
+
+- Service update
+

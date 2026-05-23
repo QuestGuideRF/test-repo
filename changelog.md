@@ -296,3 +296,7 @@
 
 - Service update
 
+## 2026-05-23 / Обновление 75
+
+- Service update
+

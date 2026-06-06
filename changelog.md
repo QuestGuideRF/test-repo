@@ -316,3 +316,7 @@
 
 - Service update
 
+## 2026-06-06 / Обновление 80
+
+- Service update
+

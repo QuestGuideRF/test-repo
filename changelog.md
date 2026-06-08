@@ -320,3 +320,7 @@
 
 - Service update
 
+## 2026-06-08 / Обновление 81
+
+- Service update
+

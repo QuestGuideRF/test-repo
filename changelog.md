@@ -336,3 +336,7 @@
 
 - Service update
 
+## 2026-06-13 / Обновление 85
+
+- Service update
+

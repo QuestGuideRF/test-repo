@@ -360,3 +360,7 @@
 
 - Service update
 
+## 2026-06-23 / Обновление 91
+
+- Service update
+

@@ -380,3 +380,7 @@
 
 - Service update
 
+## 2026-06-30 / Обновление 96
+
+- Service update
+

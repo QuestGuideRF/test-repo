@@ -384,3 +384,7 @@
 
 - Service update
 
+## 2026-07-02 / Обновление 97
+
+- Service update
+

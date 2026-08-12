@@ -476,3 +476,7 @@
 
 - Service update
 
+## 2026-08-12 / Обновление 120
+
+- Service update
+

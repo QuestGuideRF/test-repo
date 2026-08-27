@@ -496,3 +496,7 @@
 
 - Service update
 
+## 2026-08-27 / Обновление 125
+
+- Service update
+

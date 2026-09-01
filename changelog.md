@@ -500,3 +500,7 @@
 
 - Service update
 
+## 2026-09-01 / Обновление 126
+
+- Service update
+
